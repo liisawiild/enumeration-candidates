@@ -6,4 +6,5 @@ require './filters'
 
 ## Your test code can go here
 
-pp @candidates
+# qualified_candidates(@candidates)
+ordered_by_qualifications(@candidates)
